@@ -37,4 +37,5 @@ O script realiza testes rápidos nas seguintes portas comuns:
 *Aviso: Este script possui fins estritamente educacionais e de automação defensiva.*
 
 Atenciosamente,
+
 Natanael Santos 
